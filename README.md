@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=typical-abj&label=Profile%20Views&color=0e1117&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=flat&logo=ec-council&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified-blue?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-In%20Progress-red?style=flat&logo=ec-council&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-In%20Progress-blue?style=flat&logo=cisco&logoColor=white" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ I'm a cybersecurity professional focused on offensive security, network defense,
 - 🔍 &nbsp;Currently researching new attack surfaces and defense techniques
 - ✍️ &nbsp;I write blogs on security topics — tools, techniques, and insights
 - 🏴 &nbsp;Active CTF player and participant
-- 📜 &nbsp;Certified Ethical Hacker (CEH) · Cisco CCNA
+- 📜 &nbsp;Pursuing CEH (Certified Ethical Hacker) & Cisco CCNA
 
 ---
 
